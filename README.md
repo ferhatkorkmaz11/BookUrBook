@@ -17,4 +17,4 @@ Since school related materials are very expensive due to economic reasons, we th
 -> While registering, it checks more. (Alphanumerical email, password, and username)\
 -> Feedback system by using JavaMailAPI.\
 -> Resetting password for the users.\
--> Fixing bugs with my group mates.\
+-> Fixing bugs with my group mates.
